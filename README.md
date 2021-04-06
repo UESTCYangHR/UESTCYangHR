@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**UESTCYangHR/UESTCYangHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on UESTC
+- 🌱 I’m currently learning knowledge about machine learning
+- 👯 I'm looking for like-minded friends to study with
+- 🤔 I'm looking for a master to guide and help me with my studies
+- 💬 Ask me some college life, computer-related knowledge
+- 📫 How to reach me: yhr_uestc@163.com
+- 😄 Pronouns: To be No.1
+- ⚡ Fun fact: I am a humorous person
+
+
