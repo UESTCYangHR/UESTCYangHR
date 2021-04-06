@@ -16,4 +16,4 @@
 
 ![](https://img.shields.io/badge/Love-ZC-informational)
 ![](https://img.shields.io/badge/Happy-Everyday-success)
-![](http://cdn.onlinewebfonts.com/svg/img_574244.png)
+![](https://image.flaticon.com/icons/svg/73/73168.svg)
