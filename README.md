@@ -14,4 +14,4 @@
 - 😄 Pronouns: To be No.1
 - ⚡ Fun fact: I am a humorous person
 
-
+![](https://img.shields.io/badge/Love-ZC-informational)
